@@ -11,7 +11,7 @@ As a dataset, I chose a dataset from the UC Berkeley website that was designed s
 
 The dataset is divided into 4 parts in advance (folders):
 1. testA (120 Files)
-2. testB (140 Files
+2. testB (140 Files)
 3. trainA (1,067 Files)
 4. trainB (1,334 Files)
 
