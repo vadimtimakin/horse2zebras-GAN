@@ -31,7 +31,7 @@ Training
 -----------------------------------
 All training parameters can be found in the laptop. I decided to do 200 epochs of training. If you suddenly decide to train this network yourself, keep in mind that for a full day on Google Colab Pro, approximately 150 epochs are performed. In this regard, I had to load weights several times and start with checkpoints. The code for loading weights is in the laptop. The training cycle also contains a block of code that saves weights to your Google drive every 5 epochs, specifying the era number in the name.
 
-You can change the training parameters to get a better result. n_cpu (the number of cores in the processor) I have costs 2, because my processor only has two cores, you can put the number of cores of your processor. Batchsize I have is 6, this is the maximum size that fits on the GPU provided by Google Colab Pro. If you get an error, try reducing this parameter.
+You can change the training parameters to get a better result. **n_cpu** (the number of cores in the processor) I have costs 2, because my processor only has two cores, you can put the number of cores of your processor. **Batchsize** I have is 6, this is the maximum size that fits on the GPU provided by Google Colab Pro. If you get an error, try reducing this parameter.
 
 Other
 -----------------------------------
