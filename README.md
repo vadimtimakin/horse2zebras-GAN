@@ -1,2 +1,2 @@
 # horse2zebras-GAN
-horse2zebras Cycle GAN (weights included)
+horse2zebras Cycle GAN (weights included). [ENG]
