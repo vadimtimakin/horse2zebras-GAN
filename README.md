@@ -5,6 +5,21 @@ Task
 -----------------------------------
 The task was to turn the horses in the photo into zebras and vice versa.
 
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/3sYrRpR2fso.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/9z4SwUr53-k.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/GNx9bEQZmeg.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/HkXdRRMXtf0.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/JQgLhS9kjXo.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/MiGetfodaMs.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/bAoEgiZNwMM.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/cgARhCwXwgI.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/fOiy0oDO-kk.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/gKdI6LPo4Gk.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/gwxX7xFvYys.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/jq-lP-WFLkQ.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/lQGTKk5S4-o.jpg)
+![alt text](https://github.com/t0efL/horse2zebras-GAN/blob/master/results/tseO0ZcEAro.jpg)
+
 Dataset
 -----------------------------------
 As a dataset, I chose a dataset from the UC Berkeley website that was designed specifically for cycleGAN. It is downloaded directly to your laptop via [the following link](https://people.eecs.berkeley.edu/~taesung_park/CycleGAN/datasets/horse2zebra.zip).
